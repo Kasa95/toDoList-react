@@ -52,8 +52,8 @@ const NewTask = () => {
 	console.log(list);
 	return (
 		<div className="container w-30 py-3 border mt-5">
-			<h1 className="text-center py-3 display-4">ToDo List</h1>
-			<form action="#" onSubmit={addTask} className="container">
+			<h1 className="text-center py-3 display-4">todo list</h1>
+			<form action="#" onSubmit={addTask} className="mb-1">
 				<input
 					type="text"
 					onChange={handleTask}

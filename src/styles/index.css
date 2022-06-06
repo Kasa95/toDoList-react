@@ -38,10 +38,11 @@ ul.no-bullets {
 
 body {
     background-color: rgb(224, 224, 224);
+    color: rgb(53, 53, 53);
 }
 
 h1 {
-    color: rgb(57, 57, 57);
+    color: rgb(67, 67, 67);
 }
 
 input {
@@ -63,3 +64,6 @@ hr {
     width: 30%!important;
 }
 
+.col-2 {
+    margin-right: 0;
+}
